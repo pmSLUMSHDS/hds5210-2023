@@ -1,0 +1,16 @@
+Geography,Cancer Type,Sex,Annual Average Case Count,"Cancer Rate per 100,000 Population",Stability
+Barnstable,Non-Hodgkin Lymphoma,Male,47,26.4,Stable
+Berkshire,Non-Hodgkin Lymphoma,Male,20,23,Stable
+Bristol,Non-Hodgkin Lymphoma,Male,65,21.8,Stable
+Dukes,Non-Hodgkin Lymphoma,Male,3,27.7,Stable
+Essex,Non-Hodgkin Lymphoma,Male,108,27.1,Stable
+Franklin,Non-Hodgkin Lymphoma,Male,8,19.1,Stable
+Hampden,Non-Hodgkin Lymphoma,Male,52,22,Stable
+Hampshire,Non-Hodgkin Lymphoma,Male,17,20.6,Stable
+Middlesex,Non-Hodgkin Lymphoma,Male,179,23.5,Stable
+Nantucket,Non-Hodgkin Lymphoma,Male,NS,NS,NS
+Norfolk,Non-Hodgkin Lymphoma,Male,92,24.8,Stable
+Plymouth,Non-Hodgkin Lymphoma,Male,59,21.5,Stable
+Suffolk,Non-Hodgkin Lymphoma,Male,65,21.3,Stable
+Worcester,Non-Hodgkin Lymphoma,Male,93,22.3,Stable
+Statewide,NHL,Male,809,23.5,Stable

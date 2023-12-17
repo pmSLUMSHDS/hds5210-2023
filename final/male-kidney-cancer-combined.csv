@@ -1,0 +1,16 @@
+Geography,Cancer Type,Sex,Annual Average Case Count,"Cancer Rate per 100,000 Population",Stability
+Barnstable,Kidney,Male,31,18.2,Stable
+Berkshire,Kidney,Male,18,20.3,Stable
+Bristol,Kidney,Male,69,22.1,Stable
+Dukes,Kidney,Male,2,14.2,Unstable
+Essex,Kidney,Male,87,20.9,Stable
+Franklin,Kidney,Male,8,19.2,Stable
+Hampden,Kidney,Male,67,27.1,Stable
+Hampshire,Kidney,Male,15,17.3,Stable
+Middlesex,Kidney,Male,169,21,Stable
+Nantucket,Kidney,Male,NS,NS,NS
+Norfolk,Kidney,Male,91,23.8,Stable
+Plymouth,Kidney,Male,78,26.8,Stable
+Suffolk,Kidney,Male,63,19.7,Stable
+Worcester,Kidney,Male,109,25.2,Stable
+Statewide,Kidney,Male,807,22.3,Stable

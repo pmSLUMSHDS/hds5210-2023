@@ -1,0 +1,16 @@
+Geography,Cancer Type,Sex,Annual Average Case Count,"Cancer Rate per 100,000 Population",Stability
+Barnstable,Bladder,Male,85,45,Stable
+Berkshire,Bladder,Male,39,42.7,Stable
+Bristol,Bladder,Male,125,43,Stable
+Dukes,Bladder,Male,6,54.1,Stable
+Essex,Bladder,Male,173,44.2,Stable
+Franklin,Bladder,Male,15,34.4,Stable
+Hampden,Bladder,Male,84,35.8,Stable
+Hampshire,Bladder,Male,27,34.4,Stable
+Middlesex,Bladder,Male,292,38.9,Stable
+Nantucket,Bladder,Male,2,30.8,Unstable
+Norfolk,Bladder,Male,133,36.7,Stable
+Plymouth,Bladder,Male,122,44.6,Stable
+Suffolk,Bladder,Male,89,31.1,Stable
+Worcester,Bladder,Male,185,46.3,Stable
+Statewide,Bladder,Male,1377,40.4,Stable
